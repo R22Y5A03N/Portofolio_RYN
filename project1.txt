@@ -5,3 +5,4 @@ belajar fulstack developer
 3. JavaScript
 4. mysql
 5. php
+6.selanjunya saya akan mendalami belajar front-end
