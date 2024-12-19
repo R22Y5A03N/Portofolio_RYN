@@ -3,3 +3,5 @@ belajar fulstack developer
 1. HTML
 2. CSS
 3. JavaScript
+4. mysql
+5. php
