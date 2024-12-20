@@ -1,1 +1,2 @@
 rencana belajar kedepannya adalah belajar forntend
+(rencana satu) = saya ingin belajar framework css seperti tailwind, boostrap dll
