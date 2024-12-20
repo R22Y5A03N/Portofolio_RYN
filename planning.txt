@@ -1,2 +1,3 @@
-rencana belajar kedepannya adalah belajar forntend
-(rencana satu) = saya ingin belajar framework css seperti tailwind, boostrap dll
+
+rencana belajar saya ingin backend
+rencana belajar juga saya ingin belajar laravel,CI dll
