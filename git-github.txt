@@ -4,3 +4,19 @@ fork berguna untuk
 - modifikasi terhadap repo original 
 - berkontibusi terhadap repo orang lain
 - fork tidak sam dengan clone
+
+GIT 
+GIT COMMAND LOCAL
+contoh perintah git 
+- git init
+- git add < file (s)>
+- git status 
+- git commit
+- git config
+- git branch
+- git help
+
+3 AREA REPO GIT
+- working tree
+- staging area untuk menyimpan perubahan (tersimpan didalam folder .git)
+- history (tersimpan didalam folder .git)
