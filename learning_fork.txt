@@ -1,0 +1,6 @@
+FORK / FORKING  cara kita untuk membuat copy / duplikat dari repo orang lain beserta historynya 
+fork berguna untuk
+- jembatan antara repo original dan duplikat 
+- modifikasi terhadap repo original 
+- berkontibusi terhadap repo orang lain
+- fork tidak sam dengan clone
