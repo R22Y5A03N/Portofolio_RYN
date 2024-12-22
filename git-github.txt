@@ -20,3 +20,7 @@ contoh perintah git
 - working tree
 - staging area untuk menyimpan perubahan (tersimpan didalam folder .git)
 - history (tersimpan didalam folder .git)
+
+KATEGORI MERGE 
+1. fast forward merge
+2. three-way merge
