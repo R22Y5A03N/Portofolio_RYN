@@ -22,5 +22,5 @@ contoh perintah git
 - history (tersimpan didalam folder .git)
 
 KATEGORI MERGE 
-1. fast forward merge
-2. three-way merge
+1. fast forward merge (ketika suatu branch mempunyai direct path)
+2. three-way merge (ketika branch tidak mempunyai direct path)
